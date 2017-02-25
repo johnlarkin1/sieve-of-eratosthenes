@@ -1,5 +1,4 @@
 '''
-
 Sieve of Eratosthenes
 Author: John Larkin
 Date: 2/21/17
